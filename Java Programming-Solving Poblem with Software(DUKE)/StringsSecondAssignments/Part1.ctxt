@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ \u5728\u8FD9\u91CC\u7ED9\u51FA\u5BF9\u7C7B\ Part1\ \u7684\u63CF\u8FF0\u3002\r\n\ \r\n\ @\u4F5C\u8005\uFF08\u4F60\u7684\u540D\u5B57\uFF09\r\n\ @\u7248\u672C\uFF08\u4E00\u4E2A\u7248\u672C\u53F7\u6216\u8005\u4E00\u4E2A\u65E5\u671F\uFF09\r\n
+comment1.params=dna\ sIndex
+comment1.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment10.params=sr
+comment10.target=void\ processGenes(edu.duke.StorageResource)
+comment11.params=
+comment11.target=void\ Main()
+comment2.params=
+comment2.target=void\ testFindGene()
+comment3.params=dna\ startIndex\ stopCodon
+comment3.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testFindStopCodon()
+comment5.params=dna
+comment5.target=edu.duke.StorageResource\ getAllGenes(java.lang.String)
+comment6.params=
+comment6.target=void\ testAll()
+comment7.params=dna
+comment7.target=int\ countGenes(java.lang.String)
+comment8.params=dna
+comment8.target=float\ cgRatio(java.lang.String)
+comment9.params=dna
+comment9.target=int\ countCTG(java.lang.String)
+numComments=12
